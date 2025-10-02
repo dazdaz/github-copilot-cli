@@ -1,3 +1,9 @@
+## Step 1: Ensure the Policy is Enabled (Admin Action for Enterprise/Business)
+
+* As an admin, log in to github.com and navigate to Profile > Settings > Copilot (or organization settings if managing at the org level).
+* Scroll to the policies section and toggle the Claude Sonnet 4.5 option to Enabled.
+* This makes the model available organization-wide in Copilot Chat and CLI.
+
 # Method 1
 ```bash
 npm install -g @github/copilot
